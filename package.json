@@ -1,0 +1,20 @@
+{
+  "name": "imagine-cloudfiles",
+  "version": "0.1.0",
+  "description": "Cloudfiles storage for Imagine",
+  "homepage": "https://github.com/brewster/imagine-cloudfiles",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brewster/imagine-cloudfiles"
+  },
+
+  "main": "./lib/imagine-cloudfiles",
+  
+  "dependencies": {
+    "obj-extend": "~ 0.1.0",
+    "winston": "~ 0.5.11"
+  },
+
+  "license": "MIT"
+}
